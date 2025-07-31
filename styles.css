@@ -5,6 +5,7 @@ body{
     background-color: rebeccapurple;
     color: aliceblue;
     font-family: sans-serif;
+    margin: 20px 30px;
 }
 h1{
     display: flex;
