@@ -1,0 +1,32 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    background-color: rebeccapurple;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin: 65px;
+}
+.recipes{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: plum;
+    font-size: 1.5em;
+    transition: 1s;
+}
+a:hover{
+    letter-spacing: 2px;
+}
+.hero{
+    display: flex;
+}
+.title-subtitle{
+    margin: 20px;
+}
